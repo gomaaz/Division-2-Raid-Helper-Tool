@@ -4,7 +4,7 @@ A lightweight **AutoHotkey v2 tool** designed to simplify and enhance your *Tom 
 It provides smart overlays, quick macros, and context-sensitive hotkeys to help coordinate actions efficiently during RSC raids or solo play.
 
 
-<img width="1024" height="1024" alt="ChatGPT Image 4  Nov  2025, 16_06_25" src="https://github.com/user-attachments/assets/d9b4cd9e-51c4-48be-98e3-64dcbd5cb04f" />
+<img width="1024" height="1024" alt="ChatGPT Image 4  Nov  2025, 17_03_36" src="https://github.com/user-attachments/assets/961ae365-077e-4d84-8ee2-5b87f31351e5" />
 
 
 ---
